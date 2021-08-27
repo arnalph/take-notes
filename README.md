@@ -20,3 +20,7 @@ Routing and pages are defined in the `App.js` file in the `src` folder.
 `yarn build` to build and output the static files.
 All static files are generated in `./build` folder.
 
+## Problems to note
+
+I tried to deploy the site to Github Pages. But the react js failed to render the single page app. It just gives a blank display with colored background.
+Hence, I have deployed to Netlify. I used Netlify deploy for the same. Documentation for that is available [here](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/).
